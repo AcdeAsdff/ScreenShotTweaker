@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScreenShotTweaker</string>
+    <string-array name="scope">
+        <item>com.android.systemui</item>
+        <item>com.android.systemui.auto_generated_rro_vendor__</item>
+        <item>com.android.systemui.auto_generated_rro_product__</item>
+<!--        <item>com.flyme.systemuiex</item>-->
+    </string-array>
+</resources>
